@@ -1,0 +1,6 @@
+{
+  "name": "Solara Energy Systems",
+  "description": "Premium solar energy solutions, solar panels, inverters, lithium batteries and complete installation services for Nigerian homes and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -194,7 +194,7 @@ export const QuoteSection: React.FC<QuoteSectionProps> = ({ initialData }) => {
                       type="tel"
                       name="phoneNumber"
                       required
-                      placeholder="e.g., 0803 123 4567"
+                      placeholder="e.g., 0701 678 3058"
                       value={formData.phoneNumber}
                       onChange={handleChange}
                       className="w-full py-2.5 px-3.5 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:bg-white text-slate-900"
@@ -391,13 +391,13 @@ export const QuoteSection: React.FC<QuoteSectionProps> = ({ initialData }) => {
               </p>
 
               <a
-                href="https://wa.me/2348030009988?text=Hello%20Solara%20Energy,%20I%20would%20like%20to%20get%20an%20urgent%20solar%20quote."
+                href="https://wa.me/2347016783058?text=Hello%20Solara%20Energy,%20I%20would%20like%20to%20get%20an%20urgent%20solar%20quote."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full py-3 px-4 bg-white hover:bg-slate-100 text-emerald-900 font-bold rounded-xl text-center flex items-center justify-center gap-2 text-sm shadow-md transition-all"
               >
                 <MessageSquare className="w-4 h-4 text-emerald-600" />
-                <span>Chat on WhatsApp (+234 803 000 9988)</span>
+                <span>Chat on WhatsApp (+234 701 678 3058)</span>
               </a>
             </div>
 
@@ -409,13 +409,13 @@ export const QuoteSection: React.FC<QuoteSectionProps> = ({ initialData }) => {
 
               <div className="space-y-3">
                 <a
-                  href="tel:+2348030009988"
+                  href="tel:+2347016783058"
                   className="flex items-start gap-3 p-3 rounded-xl bg-slate-900/60 border border-slate-700/60 hover:border-emerald-500/50 transition-colors"
                 >
                   <Phone className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
                   <div>
                     <div className="text-xs text-slate-400">Hotline & Urgent Dispatch</div>
-                    <div className="text-sm font-bold text-white">+234 (0) 803 000 9988</div>
+                    <div className="text-sm font-bold text-white">+234 (0) 701 678 3058</div>
                     <div className="text-[11px] text-emerald-400 font-medium">Mon - Sat: 8am - 6pm</div>
                   </div>
                 </a>

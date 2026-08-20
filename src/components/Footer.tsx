@@ -49,7 +49,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onOpenQuoteMod
           </div>
           <div className="flex items-center gap-3">
             <a
-              href="https://wa.me/2348030009988?text=Hello%20Solara%20Energy,%20I%20am%20interested%20in%20solar%20installation."
+              href="https://wa.me/2347016783058?text=Hello%20Solara%20Energy,%20I%20am%20interested%20in%20solar%20installation."
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-2.5 bg-emerald-600 hover:bg-emerald-500 text-white font-bold rounded-xl text-xs sm:text-sm flex items-center gap-2 transition-colors"
@@ -234,8 +234,8 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onOpenQuoteMod
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-emerald-400 shrink-0" />
-                <a href="tel:+2348030009988" className="hover:text-white transition-colors">
-                  +234 803 000 9988
+                <a href="tel:+2347016783058" className="hover:text-white transition-colors">
+                  +234 701 678 3058
                 </a>
               </li>
               <li className="flex items-center gap-2">

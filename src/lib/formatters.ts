@@ -14,6 +14,10 @@ export function formatNumber(num: number): string {
   return new Intl.NumberFormat('en-US').format(num);
 }
 
+export const OFFICIAL_PHONE_RAW = '2347016783058';
+export const OFFICIAL_PHONE_DISPLAY = '+234 701 678 3058';
+export const OFFICIAL_PHONE_TEL = '+2347016783058';
+
 export function createWhatsAppQuoteLink(options: {
   productOrPackageName?: string;
   capacity?: string;
@@ -24,7 +28,7 @@ export function createWhatsAppQuoteLink(options: {
   location?: string;
   message?: string;
 }): string {
-  const phone = '2348030009988'; // Official Solara Energy Line
+  const phone = OFFICIAL_PHONE_RAW; // Official Solara Energy Line
   let text = 'Hello Solara Energy, I would like to inquire about a solar power solution.\n\n';
 
   if (options.customerName) {

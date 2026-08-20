@@ -94,14 +94,14 @@ export const Navbar: React.FC<NavbarProps> = ({
 
           <div className="flex items-center gap-4 text-xs">
             <a 
-              href="tel:+2348030009988" 
+              href="tel:+2347016783058" 
               className="flex items-center gap-1.5 hover:text-emerald-400 transition-colors"
             >
               <Phone className="w-3.5 h-3.5 text-emerald-400" />
-              <span>+234 (0) 803 000 9988</span>
+              <span>+234 (0) 701 678 3058</span>
             </a>
             <a 
-              href="https://wa.me/2348030009988?text=Hello%20Solara%20Energy,%20I%20would%20like%20to%20inquire%20about%20a%20solar%20installation."
+              href="https://wa.me/2347016783058?text=Hello%20Solara%20Energy,%20I%20would%20like%20to%20inquire%20about%20a%20solar%20installation."
               target="_blank"
               rel="noopener noreferrer"
               className="hidden md:flex items-center gap-1 text-emerald-400 hover:text-emerald-300 font-semibold"
@@ -373,7 +373,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 Request a Custom Quote
               </button>
               <a
-                href="https://wa.me/2348030009988?text=Hello%20Solara%20Energy,%20I%20would%20like%20to%20inquire%20about%20a%20solar%20installation."
+                href="https://wa.me/2347016783058?text=Hello%20Solara%20Energy,%20I%20would%20like%20to%20inquire%20about%20a%20solar%20installation."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full py-2.5 px-4 bg-slate-900 text-emerald-400 font-semibold rounded-lg text-center flex items-center justify-center gap-2 text-sm"

@@ -148,7 +148,7 @@ export const QuickQuoteModal: React.FC<QuickQuoteModalProps> = ({
                   <input
                     type="tel"
                     required
-                    placeholder="0803 000 0000"
+                    placeholder="0701 678 3058"
                     value={phone}
                     onChange={(e) => setPhone(e.target.value)}
                     className="w-full py-2 px-3 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:ring-2 focus:ring-emerald-500 focus:bg-white text-slate-900"
